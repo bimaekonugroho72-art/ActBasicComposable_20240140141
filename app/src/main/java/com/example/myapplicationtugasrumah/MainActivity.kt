@@ -1,5 +1,5 @@
 package com.example.myapplicationtugasrumah
-// Komentar 8
+// Komentar 9
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
